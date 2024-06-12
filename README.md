@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Uma API REST em Java usando Spring Boot para consumir a API [Advice Slip](https://api.adviceslip.com) via OpenFeign, seguindo os princípios da arquitetura limpa.
+Uma API REST em Java usando Spring Boot para consumir a API <a href="https://api.adviceslip.com" target="_blank">Advice Slip</a> via OpenFeign, seguindo os princípios da arquitetura limpa.
 
 ## Funcionalidades
 
